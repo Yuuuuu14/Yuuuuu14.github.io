@@ -1,0 +1,14 @@
+body {
+    background-color: lightcyan
+  }
+    h1 {
+        color: black;
+        font-size:20pt;
+    }
+    h2{
+        color:aqua;
+    }
+    p {
+        color:firebrick;
+        font-size:18pt;
+    }
