@@ -46,5 +46,16 @@ body {
         color:orchid;
         border: 5px dotted orange;
     }
-    
+    .navbar {
+        display: flex;
+        background-color: goldenrod;
+        justify-content: center;
+        align-items: center;
+      }
+    .guideline{
+        background-color: aquamarine;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     
